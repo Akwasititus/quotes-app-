@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425640425447",
+    "project_id": "finalcquote",
+    "storage_bucket": "finalcquote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425640425447:android:7995721e87ced198d2af42",
+        "android_client_info": {
+          "package_name": "com.titi.finalcquotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Tp6sWb-cN3Aek1LraUmJc2ugENx3xLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
